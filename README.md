@@ -1,2 +1,2 @@
 # ControlBoxHardware
-Hardware specifications and design files for the ControlBox
+Hardware specifications and design files for ControlBox
